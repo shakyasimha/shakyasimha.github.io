@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sushovan M. Shakya</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Sushovan M. Shakya</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2025 20:46:57 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project1</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Wed, 02 Apr 2025 20:46:57 +0545</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;date-2025-04-02&#34;&gt;title: &amp;ldquo;Prachalit Newa Lipi OCR&amp;rdquo;&#xA;date: 2025-04-02&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: A [e.g., web app] built with [e.g., Go and Hugo].&lt;br&gt;&#xA;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python (Tensorflow)&#xA;&lt;strong&gt;Link&lt;/strong&gt;: [https://github.com/yourusername/project1]&lt;br&gt;&#xA;&lt;strong&gt;Details&lt;/strong&gt;: This project solves [problem] by [solution]. I implemented [key feature] to achieve [result].&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
