@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm [Sushovan Shakya]"
-lead: "Software Engineer | Backend | Cybersec | DevOps"
+lead: "Software Engineer | Web Development | Cybersec "
 ---
 Welcome to my portfolio! \
 I’m a software engineer and a cybersec enthusiast.\
